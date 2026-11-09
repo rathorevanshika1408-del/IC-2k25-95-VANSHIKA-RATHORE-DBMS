@@ -60,10 +60,3 @@ IC-2K25-95-VANSHIKA-RATHORE-DBMS/
 
 
 
-
-
-
-
-Ask for approval
-
-Select effort6 LunaMediumNoneMinimalLightMediumHighExtra HighMaxUltraPersi
